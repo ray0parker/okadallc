@@ -42,3 +42,8 @@ input {
 .body {
     text-align: center;
 }
+
+.nav a.active {
+    background-color: #36609e;
+    color: white;
+}
